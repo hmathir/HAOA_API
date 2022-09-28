@@ -2,63 +2,63 @@
   {
     "id": "1",
     "title": "Paro",
-    "picture": "./images/paro.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/paro/mmt/destination/m_paro-landscape_l_400_640.jpg",
     "description": "Paro is an ideal destination for heritage buffs. You will love the festivals and lush valley views. You will also enjoy exploring the mountains at Paro.",
     "time": 16
   },
   {
     "id": "2",
     "title": "Bali",
-    "picture": "./images/bali.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/bali/mmt/destination/m_bali_l_393_629.jpg",
     "description": "Embark upon sizzling gastronomic experiences in Bali. You can expect frequent heavy rainfalls with high humidity levels. You will also enjoy the beaches at Bali.",
     "time": 8
   },
   {
     "id": "3",
     "title": "Abu Dhabi",
-    "picture": "./images/abuDhabi.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/abu_dhabi/mmt/destination/m_Abu%20Dhabi_p_560_560.jpg",
     "description": "Exciting adventures await you at Abu Dhabi. You will love shopping jackpots and perfect conditions for sightseeing the attractions or relaxing at the seashore. Also, don't miss the heritage structures at Abu Dhabi.",
     "time": 12
   },
   {
     "id": "4",
     "title": "Bentola",
-    "picture": "./images/bentola.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/bentota/mmt/destination/m_bentota-landscape_l_400_640.jpg",
     "description": "Come and fall in love with the beach vibe of Bentota. You will love sightseeing and water sports. You can also unwind amidst the tranquil surroundings of Bentota.",
     "time": 10
   },
   {
     "id": "5",
     "title": "Maldives",
-    "picture": "./images/maldives.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/maldives/mmt/destination/m_Maldives_l_400_640.jpg",
     "description": "Take your beach love to Maldives. You will love the beach activities and island hopping. Maldives is also an ideal destination for a relaxing break.",
     "time": 7
   },
   {
     "id": "6",
     "title": "Krabi",
-    "picture": "./images/krabi.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/krabi/mmt/destination/m_krabi-landscape_l_400_640.jpg",
     "description": "If you love watching the ocean, then Krabi is home to gorgeous beaches. You will love the beaches and water sports. Krabi is also very popular among relaxation-seekers.",
     "time": 11
   },
   {
     "id": "7",
     "title": "Mykonos",
-    "picture": "./images/mykonos.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/mykonos/mmt/destination/m_Mykonos_l_449_673.jpg",
     "description": "An intrinsic part of the Cyclades Islands in the Aegean Sea, the Greek Island of Mykonos is all about age-old churches with stony white-washed façades, historical museums, exotic beaches, exciting bars and restaurants, dance clubs and luxury cruises.",
     "time": 13
   },
   {
     "id": "8",
     "title": "Tokyo",
-    "picture": "./images/Tokyo.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/tokyo/mmt/destination/m_Tokyo_l_466_697.jpg",
     "description": "Soak in the rich culture and heritage of Tokyo. You will love the stunning cherry blossoms, fairs and festivals. The local cuisines at Tokyo are worth trying out too.",
     "time": 15
   },
   {
     "id": "9",
     "title": "Barcelona",
-    "picture": "./images/Barcelona.jpg",
+    "picture": "https://hblimg.mmtcdn.com/content/hubble/img/barcelona/mmt/destination/m_Barcelona_New_l_405_1119.jpg",
     "description": "Founded as a Roman city, present day Barcelona is the capital of Spain's Catalonia region. Standing as an embodiment of model architecture and classic art, the city is known for its many attractions designed by Antoni Gaudi.",
     "time": 21
   }
